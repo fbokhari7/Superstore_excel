@@ -13,7 +13,7 @@ People: Contains information on employees, including employee ID, name, departme
 
 Repository Contents:
 
-Raw Data - Superstore.xls: 
+Raw Data - Superstore.xls: Uncleaned dataset.
 
 Superstore Project.xlsx: Excel workbook containing the dataset and the Dashboard.
 
